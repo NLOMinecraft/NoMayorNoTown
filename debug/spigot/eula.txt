@@ -1,0 +1,3 @@
+# Accepted by Spigradle
+# 2026-01-11T12:28:22.1039376
+eula=true

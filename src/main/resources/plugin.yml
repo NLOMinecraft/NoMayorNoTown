@@ -1,0 +1,5 @@
+name: NoMayorNoTown
+version: 1.0
+main: si.f5.InfinityDevs.NoMayorNoTown
+api-version: 1.20
+depend: [Towny]
